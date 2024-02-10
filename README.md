@@ -1,1 +1,1 @@
-# Variational-Autoencoder-Family
+# A range of Variational Autoencoder family of models
