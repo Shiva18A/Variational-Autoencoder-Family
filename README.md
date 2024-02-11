@@ -1,1 +1,1 @@
-# A range of Variational Autoencoder family of models
+# Variational Autoencoders (VAEs)
