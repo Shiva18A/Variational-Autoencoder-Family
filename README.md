@@ -7,3 +7,5 @@ Implementation of various variational autoencoder models
 2) [Convolutional VAEs and latent space visualization](VAEs_Conv/)
 
 3) [Conditional Convolutional VAEs and latent space visualization](Conditional_VAEs/)
+
+4) [Convolutional VAE using the CIFAR-10 Dataset](VAEs_Conv/VAE_CIFAR-10/)
