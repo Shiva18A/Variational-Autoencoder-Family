@@ -11,3 +11,5 @@ Implementation of various variational autoencoder models
 4) [Convolutional VAE using the CIFAR-10 Dataset](VAEs_Conv/VAE_CIFAR-10/)
 
 5) [Conditional VAE using the CIFAR-10 Dataset](Conditional_VAEs/Conditional_VAE_CIFAR-10/)
+
+6) [Convolutional VAE using the CelebA-HQ Dataset](VAEs_Conv/VAE_CelebA/)
